@@ -2,4 +2,7 @@
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/purfview)
 
-![](https://komarev.com/ghpvc/?username=Purfview&base=13050)
+![](https://komarev.com/ghpvc/?username=Purfview&base=13050)    
+    
+<img width="728" height="92" alt="pacman-contribution-graph-dark" src="https://github.com/user-attachments/assets/a2d6f73a-1fd5-4094-8902-093defe38824" />  
+
